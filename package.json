@@ -1,0 +1,24 @@
+{
+  "name": "firetrack",
+  "version": "0.0.1",
+  "description": "Mirror Firebase collections with a local cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiller-gh/firetrack.git"
+  },
+  "keywords": [
+    "Firebase",
+    "cache",
+    "database"
+  ],
+  "author": "Adam Miller <adam@universe.app>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amiller-gh/firetrack/issues"
+  },
+  "homepage": "https://github.com/amiller-gh/firetrack#readme"
+}
